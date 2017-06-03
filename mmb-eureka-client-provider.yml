@@ -1,0 +1,7 @@
+server:
+  port: 8672
+eureka:
+  client:
+    service-url:
+      defaultZone: http://localhost:8671/eureka/
+words: Äã,ÎÒ,Ëû
