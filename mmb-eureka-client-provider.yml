@@ -1,5 +1,5 @@
 eureka:
   client:
     service-url:
-      defaultZone: http://user:123456@localhost:8761/eureka
+      defaultZone: http://admin:123456@localhost:8761/eureka
 words: you,me,her
