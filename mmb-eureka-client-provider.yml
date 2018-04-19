@@ -12,4 +12,4 @@ spring:
     publisher-confirms: true
     publisher-returns: true
     mandatory: true
-    virtual-host: /yy
+    virtual-host: yy
