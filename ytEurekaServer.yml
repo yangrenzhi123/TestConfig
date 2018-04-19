@@ -13,8 +13,8 @@ spring:
   rabbitmq:
     host: 192.168.6.248
     port: 5672
-    username: tt
-    password: tt
+    username: yy
+    password: yy
     publisher-confirms: true
     publisher-returns: true
     mandatory: true
