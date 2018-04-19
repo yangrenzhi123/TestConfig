@@ -5,7 +5,11 @@ eureka:
 words: you,me,he4r
 spring:
   rabbitmq:
-    host: localhost
+    host: 192.168.6.248
     port: 5672
-    username: guest
-    password: guest
+    username: yy
+    password: yy
+    publisher-confirms: true
+    publisher-returns: true
+    mandatory: true
+    virtual-host: /yy
